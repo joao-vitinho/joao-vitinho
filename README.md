@@ -1,9 +1,6 @@
 ## boas vindas ao meu perfil💙
-<!--
-meu nome è joao-vitinho
-
-estou estudando na alura
-
+meu nome è joao victor
+estou estudando alura
 
 
 
